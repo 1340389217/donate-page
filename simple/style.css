@@ -46,7 +46,7 @@ a{
 	height: 70px;
 	line-height: 70px;
 	color: #fff;
-	background: #ffd886 url(images/like.svg) no-repeat center 10px;
+	/background: #ffd886 url(images/like.svg) no-repeat center 10px;
 	background-size: 20px;
 	border-radius: 35px;
 	text-align: center;
@@ -95,8 +95,8 @@ a{
 #donateBox a {
 	display: block;
 }
-#donateBox #PayPal {
-	background-image: url(images/paypal.svg);
+#donateBox #QQ {
+	background-image: url(images/QQ.svg);
 }
 
 #donateBox #AliPay {
