@@ -1,6 +1,6 @@
 # Donate-Page
 
-一款捐赠按钮样式，包含PayPal、支付宝、微信，可使用iframe直接嵌入，方便简洁。
+一款捐赠按钮样式，包含QQ、支付宝、微信，可使用iframe直接嵌入，方便简洁。
 
 **Demo在线演示：**[点击进入在线演示](https://gitcdn.link/cdn/TinyJay/donate-page/faa9d69210d334af644f254296e1a8b3e24da3be/simple/index.html)
 
